@@ -13,7 +13,7 @@ public class Cronometro {
 		
 		long inicio = System.currentTimeMillis();
 		
-		String nombre = br.readLine();
+		br.readLine();
 		
 		long fin = System.currentTimeMillis();
 		
