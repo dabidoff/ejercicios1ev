@@ -19,6 +19,8 @@ public class ParImpar {
 			
 			System.out.println("El numero introducido es impar");
 		}
+		
+		sc.close();
 
 	}
 
